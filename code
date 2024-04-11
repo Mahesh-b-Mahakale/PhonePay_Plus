@@ -3,6 +3,7 @@
 #pip install streamlit
 #pip install streamlit_extras
 
+import mysql.connector 
 import pandas as pd
 #import psycopg2
 import streamlit as st
